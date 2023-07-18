@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yangsuhoe988/xxx/issues"
   },
-  "homepage": "https://github.com/Yangsuhoe988/xxx#readme"
+  "homepage": "https://github.com/Yangsuhoe988/xxx#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }

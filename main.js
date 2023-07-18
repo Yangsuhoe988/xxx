@@ -48,7 +48,7 @@ var app = http.createServer(function(request, response) {
 
 		 for(var i = 0; i <  chats.length; i++){
 			 text = text +`<li>${chats[i].description}</li>`;
-			
+			id 
 
 		 }
 		 var description = text;
@@ -109,6 +109,7 @@ var app = http.createServer(function(request, response) {
 	db.query(`
 		INSERT INTO chat (description, created) VALUES(?, NOW())`,[post.description], function(error, chats){
 		if(error){
+			
 			throw error;
 		}
 		
