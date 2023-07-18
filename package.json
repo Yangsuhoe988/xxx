@@ -1,0 +1,19 @@
+{
+  "name": "xxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Yangsuhoe988/xxx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yangsuhoe988/xxx/issues"
+  },
+  "homepage": "https://github.com/Yangsuhoe988/xxx#readme"
+}
